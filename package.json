@@ -1,0 +1,25 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "author": "tafadzwa Makumbe",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "create-react-app": "^4.0.3",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "mysql": "^2.18.1",
+    "mysql2": "1.6.5",
+    "puppeteer": "^10.4.0",
+    "tailwindcss": "^2.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "axios": "*"
+  }
+}
